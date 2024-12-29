@@ -43,20 +43,6 @@ This project focuses on leveraging artificial intelligence to analyze user inves
 - Provided actionable investment suggestions tailored to user profiles.
 - Enhanced understanding of factors influencing investment decisions through feature importance analysis.
 
----
-
-## 📂 Project Structure
-```plaintext
-├── data
-│   ├── Yatirimci_Anketi.csv         # Dataset collected via Google Forms
-├── src
-│   ├── data_preprocessing.py        # Data cleaning and feature engineering scripts
-│   ├── risk_scoring.py              # Risk scoring and classification logic
-│   ├── model_training.py            # Model training and evaluation
-├── notebooks
-│   ├── YapayZekaSunum.ipynb         # Presentation and visualizations
-├── README.md
-```
 
 ---
 
@@ -90,13 +76,13 @@ This project focuses on leveraging artificial intelligence to analyze user inves
 ---
 
 ## 🤝 Acknowledgements
-Special thanks to **Melih Ağraz** for guidance and support throughout this project. This work was completed as part of the "Yapay Zeka" course at [Your Institution].
+Special thanks to **Melih Ağraz** for guidance and support throughout this project. This work was completed as part of the "Yapay Zeka" course at.
 
 ---
 
 ## 📬 Contact
 - **Author:** Çağrı Tuğrul Keser
 - **Email:** [Cagritugrulkeser@gmail.com](mailto:Cagritugrulkeser@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- **LinkedIn:** [https://www.linkedin.com/in/cagritugrulkeser/)
 
 Feel free to explore the repository and provide feedback!
